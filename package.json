@@ -2,7 +2,7 @@
   "name": "vscode-react-pack",
   "displayName": "React Essentials Extension Pack",
   "description": "Essential extensions for React development. Includes support for React, TypeScript, JavaScript, JSON, Git, Markdown, and more.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "imgildev",
